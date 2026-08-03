@@ -1,0 +1,21 @@
+event_date,event,ticker,baseline_beta_oil,baseline_beta_spy,CAR_3day,n_days_used
+2026-02-28,US and Israel launch war on Iran,xom,0.576,-0.057,-8.06,4
+2026-02-28,US and Israel launch war on Iran,cvx,0.456,0.054,-5.74,4
+2026-02-28,US and Israel launch war on Iran,cop,0.691,0.236,-5.34,4
+2026-02-28,US and Israel launch war on Iran,bp,0.563,0.219,-5.74,4
+2026-03-06,Export halt fails to resolve; grace period ends,xom,0.576,-0.057,-5.64,4
+2026-03-06,Export halt fails to resolve; grace period ends,cvx,0.456,0.054,-3.54,4
+2026-03-06,Export halt fails to resolve; grace period ends,cop,0.691,0.236,-6.27,4
+2026-03-06,Export halt fails to resolve; grace period ends,bp,0.563,0.219,0.45,4
+2026-04-08,8-day ceasefire announced,xom,0.576,-0.057,-1.11,4
+2026-04-08,8-day ceasefire announced,cvx,0.456,0.054,-0.32,4
+2026-04-08,8-day ceasefire announced,cop,0.691,0.236,0.32,4
+2026-04-08,8-day ceasefire announced,bp,0.563,0.219,3.59,4
+2026-05-20,"Trump says talks in 'final stages,' strikes called off",xom,0.576,-0.057,-1.19,4
+2026-05-20,"Trump says talks in 'final stages,' strikes called off",cvx,0.456,0.054,-1.0,4
+2026-05-20,"Trump says talks in 'final stages,' strikes called off",cop,0.691,0.236,1.26,4
+2026-05-20,"Trump says talks in 'final stages,' strikes called off",bp,0.563,0.219,-1.09,4
+2026-06-16,Peace framework signed at G7; Strait of Hormuz to fully reopen,xom,0.576,-0.057,1.53,4
+2026-06-16,Peace framework signed at G7; Strait of Hormuz to fully reopen,cvx,0.456,0.054,-0.02,4
+2026-06-16,Peace framework signed at G7; Strait of Hormuz to fully reopen,cop,0.691,0.236,2.74,4
+2026-06-16,Peace framework signed at G7; Strait of Hormuz to fully reopen,bp,0.563,0.219,-0.27,4
