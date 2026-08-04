@@ -1,4 +1,4 @@
-# Cumulative Abnormal Return Summary
+# Cumulative Abnormal Return Meathod
 
 ## What model this analysis uses
 
