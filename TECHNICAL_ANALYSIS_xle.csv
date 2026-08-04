@@ -1,5 +1,0 @@
-ticker,period,price_change_pct,baseline_beta,r_squared,war_CAR,interpretation
-xom,2026-02-20 to 2026-06-25,-8.27,1.045,0.816,-12.07,Underperformed
-cvx,2026-02-20 to 2026-06-25,-5.93,0.905,0.748,-2.39,Tracked closely
-cop,2026-02-20 to 2026-06-25,-3.93,1.336,0.8,7.41,Outperformed
-bp,2026-02-20 to 2026-06-25,-0.93,1.016,0.579,7.31,Outperformed
