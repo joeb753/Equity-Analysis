@@ -1,4 +1,4 @@
-# Calculated Abnormal Return Summary
+# Cumulative Abnormal Return Summary
 
 ## What model this analysis uses
 
