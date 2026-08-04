@@ -1,0 +1,5 @@
+ticker,price_change_pct,baseline_beta_xle,war_beta_xle,r_squared,CAR_full_war_xle,interpretation
+xom,-8.27,1.045,1.136,0.816,-12.07,Underperformed
+cvx,-5.93,0.905,1.009,0.748,-2.39,Tracked closely
+bp,-0.93,1.016,0.972,0.579,7.31,Outperformed
+cop,-3.93,1.336,1.185,0.8,7.41,Outperformed
